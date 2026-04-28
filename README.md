@@ -162,7 +162,7 @@ python app.py
 
 Le projet est déployé sur **Hugging Face Spaces** :
 
-👉 [Accéder à l'application]([https://huggingface.co/spaces/mohamadouhayatouabbassi-glitch/D-ploiement-Mod-le-ML-Gradio-Pr-diction-du-CA](https://huggingface.co/spaces/Hayatou55/modele_predictif_gradio))
+👉 [Accéder à l'application](https://huggingface.co/spaces/Hayatou55/modele_predictif_gradio))
 
 ---
 
